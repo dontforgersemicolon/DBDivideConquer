@@ -1,0 +1,4 @@
+DELETE FROM Student ;
+DELETE FROM School ;
+DELETE FROM Team ;
+DELETE FROM Division ;
